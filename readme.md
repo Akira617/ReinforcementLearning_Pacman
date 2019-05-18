@@ -77,7 +77,7 @@ python3 pacman.py -p PacmanDQN -n 11000 -x 10000 -l mediumClassic
 Here -n paramter is the total number of episodes (training + testing)
      -x parameter is for total number of episodes of training
 
-## Acknoledgements
+## Acknowledgements
 
 Pac-man implementation by UC Berkeley:
 * [The Pac-man Projects - UC Berkeley](http://ai.berkeley.edu/project_overview.html) ([http://ai.berkeley.edu/project_overview.html](http://ai.berkeley.edu/project_overview.html))
